@@ -1,13 +1,11 @@
 ## Hey, there!
-<!--
-**Leticia-Franca/Leticia-Franca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 <h1 align="center">Hi, I'm Letícia 😎</h1>
 <h3 align="center">I'm a passionate learner working to become a mobile developer</h3>
 
-- 🌱 I’m currently learning C, HTML, CSS and Javascript
+- 🌱 I’m currently learning **C, HTML, CSS and Javascript**
 
 - 📫 How to reach me **canumsang@gmail.com**
 
