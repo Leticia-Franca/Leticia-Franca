@@ -1,4 +1,4 @@
-## Hey, there!
+##
 
 <h1 align="center">Hi, I'm Letícia 😎</h1>
 <h3 align="left-align">I'm a passionate learner working to become a mobile developer</h3>
