@@ -1,12 +1,10 @@
 ##
 
-<h1 align="center">Hi, I'm Letícia 😎</h1>
-<h3 align="left-align">I'm a passionate learner working to become a mobile developer</h3>
+<h1 align="center">Hi! I'm Letícia 😎</h1>
 
 - 🌱 I’m currently learning: **C, HTML, CSS and Javascript**
 
-- 📫 How to reach me: **email: canumsang@gmail.com**
-                      **telegram: https://t.me/let_franca**
+- 📫 How to reach me: **telegram: https://t.me/let_franca**
 
 - ⚡ Fun facts: **I love to draw and I'm an horror fan**
 
