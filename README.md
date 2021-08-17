@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning: **C, HTML, CSS and Javascript**
 
 - 📫 How to reach me: **email >> canumsang@gmail.com**<br>
-                      **telegram >> https://t.me/let_franca**
+											**telegram >> https://t.me/let_franca**
 
 - ⚡ Fun facts: **I love to draw and I'm an horror fan**
 
