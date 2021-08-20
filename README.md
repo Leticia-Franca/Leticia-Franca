@@ -6,8 +6,6 @@
 
 - 📫 How to reach me: [Telegram](https://t.me/let_franca)
 
-- ⚡ Fun facts: **I love to draw and I'm an horror fan**
-
 - 😄 Pronouns: **She/Her**
 
 <h3 align="left">Languages and Tools:</h3>
