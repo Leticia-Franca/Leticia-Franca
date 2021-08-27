@@ -2,14 +2,14 @@
 
 <h1 align="center">Hi! I'm Letícia 😎</h1>
 
-- 🌱 I’m currently learning: **C, HTML, CSS and Javascript**
+[![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/let_franca)
 
-- 📫 How to reach me: [Telegram](https://t.me/let_franca)
+- 🌱 I’m currently learning: **C, HTML, CSS and Javascript**
 
 - 😄 Pronouns: **She/Her**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leticia-Franca&count_private=true&show_icons=true&theme=outrun&border_radius=30&title_color=ff64da)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leticia-Franca&count_private=false&show_icons=true&theme=outrun&border_radius=30&title_color=ff64da)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+**Skills**<br>
 
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
