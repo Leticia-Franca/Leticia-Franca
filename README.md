@@ -13,7 +13,7 @@
 
 - 😄 Pronouns: **She/Her**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leticia-Franca&count_private=false&show_icons=true&theme=outrun&border_radius=30&title_color=ff64da)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leticia-Franca&show_icons=true&theme=outrun&border_radius=30&title_color=ff64da)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>Skills</h2>
 
