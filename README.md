@@ -2,6 +2,8 @@
 
 <h1 align="center">Hi! I'm Letícia 😎</h1>
 
+<p align="center">Studying Software Engineering at Ecole 42</p>
+
 [![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/let_franca)
 
 - 🌱 I’m currently learning: **C, HTML, CSS and Javascript**
