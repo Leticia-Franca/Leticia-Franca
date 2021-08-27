@@ -4,7 +4,10 @@
 
 <p align="center">Studying Software Engineering at Ecole 42</p>
 
-[![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/let_franca)
+<p align="center">
+  <a href="https://t.me/let_franca" rel="nofollow">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+</p>
 
 - 🌱 I’m currently learning: **C, HTML, CSS and Javascript**
 
