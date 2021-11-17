@@ -4,11 +4,9 @@
 
 <p>Studying Software Engineering at Ecole 42</p>
 
-<p align="left">
-  <a href="https://t.me/let_franca" rel="nofollow">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-</p>
 
+  <a href="https://t.me/let_franca" rel="nofollow">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
 🧠 I’m currently learning: C, HTML, CSS and Javascript  
 ⚡️ Also interested in: Mobile app development, Game development  
