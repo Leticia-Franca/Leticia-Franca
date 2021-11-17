@@ -1,8 +1,8 @@
 ##
 
-<h1 align="center">Hey, there! 😎</h1>
+<h1>Hey, there! 😎</h1>
 
-<p align="center">Studying Software Engineering at Ecole 42</p>
+<p>Studying Software Engineering at Ecole 42</p>
 
 <p align="left">
   <a href="https://t.me/let_franca" rel="nofollow">
