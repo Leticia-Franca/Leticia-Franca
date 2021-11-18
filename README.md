@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a></div>
 
 🧠 I’m currently learning: C, HTML, CSS and Javascript  
-⚡️ Also interested in: Design and Game Dev  
+⚡️ Also interested in: Design and Mobile App Development  
 😃 Pronouns: She/Her
 
 <div align="center"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=Leticia-Franca&show_icons=true&theme=outrun&border_radius=30&title_color=ff64da"/></div>
