@@ -6,7 +6,9 @@ Studying Software Engineering at Ecole 42
 
 🧠 I’m currently learning: C, HTML, CSS and Javascript  
 ⚡️ Also interested in: Art, Design and Mobile App Development  
-😃 Pronouns: She/Her
+😃 Pronouns: She/Her  
+:earth_asia: Languages: Portuguese (native), English and :sparkles: learning Japanese :sparkles:  
+:sparkles: Random fact: I'm a vegetarian, and I have the Texas Chainsaw Massacre movie to thank for this (now that's a twist)    
 
 <div align="left"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=Leticia-Franca&show_icons=true&theme=outrun&border_radius=30&title_color=ff64da"/></div>
 
