@@ -1,5 +1,5 @@
 
-<img align="right" height="400em" src="https://user-images.githubusercontent.com/81519349/143610852-a4abc726-0a18-4b9e-8287-55cd316aa6c3.gif"/>
+<img align="right" height="430em" src="https://user-images.githubusercontent.com/81519349/143610852-a4abc726-0a18-4b9e-8287-55cd316aa6c3.gif"/>
 <h1 align="left">Hey, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"/> I'm Letícia!</h1>
 
 Studying Software Engineering at Ecole 42
@@ -10,7 +10,7 @@ Studying Software Engineering at Ecole 42
 :earth_asia: Languages: Portuguese (native), English and :sparkles: learning Japanese :sparkles:  
 ⚡️ Random fact: I'm a vegetarian, and I have the Texas Chainsaw Massacre movie to thank for this (now that's a twist :thinking:)      
 
-<div align="left"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=Leticia-Franca&icon_color=8f6de0&bg_color=4845a3&text_color=a2ffff&hide_border=true&show_icons=true&border_radius=30&title_color=ff64da"/></div>
+<div align="left"><img height="140em" src="https://github-readme-stats.vercel.app/api?username=Leticia-Franca&icon_color=8f6de0&bg_color=4845a3&text_color=a2ffff&hide_border=true&show_icons=true&border_radius=30&title_color=ff64da"/></div>
 
 ## :toolbox:&nbsp;Technologies 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
