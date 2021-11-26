@@ -13,12 +13,12 @@ Studying Software Engineering at Ecole 42
 <div align="left"><img height="145em" src="https://github-readme-stats.vercel.app/api?username=Leticia-Franca&icon_color=b179ed&bg_color=4845a3&text_color=a2ffff&hide_border=true&show_icons=true&title_color=b179ed"/></div>
 
 ## :toolbox:&nbsp;Technologies 
-<img src="https://img.shields.io/badge/C-8f6de0?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-8f6de0?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-8f6de0?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-8f6de0?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/C-282045?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-282045?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-282045?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-282045?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/Markdown-282045?style=for-the-badge&logo=markdown&logoColor=white"/>
 <img src="https://img.shields.io/badge/Inkscape-282045?style=for-the-badge&logo=Inkscape&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-282045?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual_Studio_Code-4845a3?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual_Studio_Code-282045?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 
 ## :mailbox:&nbsp;Contact
 <div align="left">
