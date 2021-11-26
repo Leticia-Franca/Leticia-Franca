@@ -5,7 +5,7 @@
 Studying Software Engineering at Ecole 42
 
 🧠 I’m currently learning: C, HTML, CSS and Javascript  
-:telescope: Also interested in: Art, Design and Mobile Development  
+:telescope: Also interested in: Trad./Digital Art, Design and Mobile Development  
 😃 Pronouns: She/Her  
 :earth_asia: Lang(s): Portuguese(native), English and :sparkles: learning Japanese :sparkles:  
 ⚡️ Random fact: I'm a vegetarian, and I have the Texas Chainsaw Massacre movie to thank for this (now that's a twist :thinking:)      
