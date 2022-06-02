@@ -1,7 +1,6 @@
 
 <img align="right" height="430em" src="https://user-images.githubusercontent.com/81519349/143610852-a4abc726-0a18-4b9e-8287-55cd316aa6c3.gif"/>
-<h1 align="left">Hey, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"/> I'm Letícia!</h1>
-
+<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"/>
 Studying Software Engineering at Ecole 42
 
 🧠 I’m currently learning: C, HTML, CSS and Javascript  
