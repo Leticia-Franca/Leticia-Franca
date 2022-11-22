@@ -5,8 +5,8 @@ Studying Software Engineering at Ecole 42
 🧠 I’m currently learning: C, JS and ReactJS  
 :telescope: Also interested in: Trad./Digital Art, Design and Mobile Development  
 😃 Pronouns: She/Her  
-:earth_asia: Lang(s): Portuguese(native), English and :sparkles: learning Japanese :sparkles:  
-🤩 Favorite project so far: ![So long - a simple 2D game](https://github.com/Leticia-Franca/so_long)    
+:earth_asia: Lang(s): Portuguese(native) and English   
+🤩 Favorites projects so far: ![So long - a simple 2D game](https://github.com/Leticia-Franca/so_long) and ![Minishell](https://github.com/Leticia-Franca/minishell-ecole42)
 
 <div align="left"><img height="145em" src="https://github-readme-stats.vercel.app/api?username=Leticia-Franca&icon_color=b179ed&bg_color=4845a3&text_color=a2ffff&hide_border=true&show_icons=true&title_color=b179ed"/></div>
 
