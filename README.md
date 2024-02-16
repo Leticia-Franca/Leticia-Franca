@@ -2,7 +2,7 @@
 <img align="right" height="412em" src="https://user-images.githubusercontent.com/81519349/143610852-a4abc726-0a18-4b9e-8287-55cd316aa6c3.gif"/>
 Studying Software Engineering at Ecole 42
 
-🧠 I’m currently learning: C, JS and Python  
+🧠 I’m currently learning: C++, ReactJS and Java  
 :telescope: Also interested in: Trad./Digital Art, Design and Mobile Development  
 😃 Pronouns: She/Her  
 :earth_asia: Lang(s): Portuguese(native) and English   
