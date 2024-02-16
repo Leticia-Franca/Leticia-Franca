@@ -25,7 +25,7 @@ Studying Software Engineering at Ecole 42
 
 ## :mailbox:&nbsp;Contact
 <div align="left">
-  <a href="mailto:leticiacanum.art@gmail.com" rel="nofollow">
+  <a href="mailto:leticiafguariglia@gmail.com" rel="nofollow">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://t.me/let_franca" rel="nofollow">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a></div>
