@@ -1,5 +1,5 @@
 
-<img align="right" height="412em" src="https://user-images.githubusercontent.com/81519349/143610852-a4abc726-0a18-4b9e-8287-55cd316aa6c3.gif"/>
+<img align="right" height="387em" src="https://user-images.githubusercontent.com/81519349/143610852-a4abc726-0a18-4b9e-8287-55cd316aa6c3.gif"/>
 Studying Software Engineering at Ecole 42
 
 🧠 I’m currently learning: AWS, Python and Java  
