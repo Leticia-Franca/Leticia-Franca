@@ -1,5 +1,5 @@
 
-<img align="right" height="350em" src="https://user-images.githubusercontent.com/81519349/143610852-a4abc726-0a18-4b9e-8287-55cd316aa6c3.gif"/>
+<img align="right" height="200em" src="https://user-images.githubusercontent.com/81519349/143610852-a4abc726-0a18-4b9e-8287-55cd316aa6c3.gif"/>
 Studying Software Engineering at Ecole 42
 
 🧠 I’m currently learning: AWS, Python and Java  
@@ -7,8 +7,6 @@ Studying Software Engineering at Ecole 42
 😃 Pronouns: She/Her  
 :earth_asia: Lang(s): Portuguese(native) and English   
 🤩 Favorites projects so far: ![So long - a simple 2D game](https://github.com/Leticia-Franca/so_long) and ![Minishell](https://github.com/Leticia-Franca/minishell-ecole42)
-
-<div align="left"><img height="145em" src="https://github-readme-stats.vercel.app/api?username=Leticia-Franca&icon_color=b179ed&bg_color=4845a3&text_color=a2ffff&hide_border=true&show_icons=true&title_color=b179ed"/></div>
 
 ## :toolbox:&nbsp;Technologies 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
