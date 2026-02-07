@@ -1,9 +1,9 @@
 
 <img align="right" height="200em" src="https://user-images.githubusercontent.com/81519349/143610852-a4abc726-0a18-4b9e-8287-55cd316aa6c3.gif"/>
-Studying Software Engineering at Ecole 42
+Software Engineer working with AWS and NodeJS 
 
-🧠 I’m currently learning: AWS, Python and Java  
-:telescope: Also interested in: Trad./Digital Art, Design and Mobile Development  
+🧠 I’m currently learning: AWS and Angular  
+:telescope: Also interested in: Digital Art, Cinema and Game Development  
 😃 Pronouns: She/Her  
 :earth_asia: Lang(s): Portuguese(native) and English   
 🤩 Favorites projects so far: ![So long - a simple 2D game](https://github.com/Leticia-Franca/so_long) and ![Minishell](https://github.com/Leticia-Franca/minishell-ecole42)
